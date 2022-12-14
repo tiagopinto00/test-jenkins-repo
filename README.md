@@ -1,2 +1,3 @@
 # test-jenkins-repo
-A repository to test my first Jenkins job
+Este é um repositório de teste
+First Jenkins Job
